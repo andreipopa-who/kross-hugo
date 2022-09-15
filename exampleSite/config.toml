@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://demo.gethugothemes.com/kross/examplesite/"
+baseURL = "https://stirring-biscuit-868c52.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
